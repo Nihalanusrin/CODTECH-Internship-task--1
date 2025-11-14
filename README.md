@@ -1,1 +1,2 @@
 # CODTECH-Internship-task--1
+This task implements a complete ETL (Extract, Transform, Load) pipeline using Python, pandas, and scikit-learn to automate the preprocessing and transformation of tabular datasets. The pipeline reads data from a CSV file, handles missing values,  producing a clean, processed dataset ready for machine learning or analysis. If a target column is present, it is retained in the output. The transformed data is saved as a new CSV file, making the process fully automated and reusable for future datasets. 
